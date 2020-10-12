@@ -1,5 +1,7 @@
-class Program {
-    public static void main() {
+class Program
+{
+    public static void main()
+    {
         var x = "Hello World";
         var z = "master blaster";
         var q = "is the man";
@@ -8,7 +10,8 @@ class Program {
         var conflict_from_df5 = "locally committed";
     }
 
-    public string Version() {
-        return "1.2 From stsl";
+    public string Version()
+    {
+        return "1.2 From Tyria";
     }
 }
