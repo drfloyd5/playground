@@ -12,6 +12,6 @@ class Program
 
     public string Version()
     {
-        return "1.2 From Tyria";
+        return "1.22 From Tyria";
     }
 }
